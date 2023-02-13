@@ -1,2 +1,2 @@
 #!/bin/bash
-ls ARF | grep / | wc -l
+ls ARF | grep "/" | wc -l
